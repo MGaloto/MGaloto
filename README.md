@@ -24,8 +24,8 @@ These are some languages and databases that I use for published works
   <br>
  </br>
 
- <li>Data Base</li>
-  <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p>
+ <li>Data Base
+  <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p> </li>
 
 
 
