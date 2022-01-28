@@ -27,6 +27,20 @@ These are some languages and databases that I use for published works
   <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p> </li>
 
 
+<li>Library
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="25" height="25" />
+<img src="https://img2.freepng.es/20190618/yhi/kisspng-logo-movistar-brand-trademark-product-rstudio-icon-free-of-papirus-apps-5d08d887815bb1.5167350915608608075299.jpg" alt="react" width="25" height="25" />
+<img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="25" height="25" />
+<img src="https://jkunst.com/highcharter/logo.png" alt="react" width="25" height="25" />
+<img src="https://www.anabellelaurent.com/slides/datawrangling_tallerr_ecuador/images/dplyr.png" alt="react" width="25" height="25" />
+<img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png" alt="react" width="25" height="25" />
+<img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="25" height="25" />
+</p> </li>
+
+
+
 
 
 <!--
