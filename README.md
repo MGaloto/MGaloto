@@ -31,7 +31,6 @@ These are some languages and databases that I use for published works
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="25" height="25" />
-<img src="https://i.pinimg.com/originals/6c/de/16/6cde16879be89e3141e7267d00c0438e.png" alt="react" width="25" height="25" />
 <img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="25" height="25" />
 <img src="https://jkunst.com/highcharter/logo.png" alt="react" width="25" height="25" />
 <img src="https://www.anabellelaurent.com/slides/datawrangling_tallerr_ecuador/images/dplyr.png" alt="react" width="25" height="25" />
