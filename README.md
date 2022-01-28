@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p dir="auto"><a href="https://www.instagram.com/maxigaloto" rel="nofollow"><img alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 100%;"></a> </p>
+<p dir="auto"><a href="https://www.instagram.com/maxigaloto" rel="nofollow"><img src = 'https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 100%;"></a> </p>
 
 
 
