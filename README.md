@@ -13,7 +13,7 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
  
  <li>Languages</li>
  
- <p dir="auto"><a href="https://www.instagram.com/maxigaloto" rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=<LABEL>&message=R&color=blue'alt="R Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a></p>
+ <p dir="auto"><a href="https://www.instagram.com/maxigaloto" rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=R&message=R&color=blue'alt="R Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a></p>
  
 
  <li>Data Base</li>
