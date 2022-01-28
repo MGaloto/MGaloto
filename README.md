@@ -20,16 +20,15 @@ These are some languages and databases that I use for published works
   
 
  <li>Languages</li>
- <br>
- </br>
  <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=R-Studio&message= &color=blue'alt="R Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=Python&message= &color=yellow'alt="R Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a>  <a><img src = 'https://img.shields.io/static/v1?label=Html&message= &color=red'alt="R Badge" style="max-width: 75%;"></a>  <a><img src = 'https://img.shields.io/static/v1?label=JavaScript&message= &color=yellow'alt="java Badge" style="max-width: 75%;"></a> </a>  <a><img src = 'https://img.shields.io/static/v1?label=Css&message= &color=greeb'alt="java Badge" style="max-width: 75%;"></a></p>
   <br>
  </br>
 
  <li>Data Base</li>
-  <br>
- </br>
   <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p>
+
+
+
 
 <!--
 **MGaloto/MGaloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
