@@ -9,6 +9,12 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
  
  <br>
  </br>
+ 
+ 
+I am passionate about everything I do, especially when it comes to working with data. I can combine programming languages ​​to get the best out of each one and get the best possible results.
+ 
+ <br>
+ </br>
 
 These are some languages and databases that I use for published works
   
