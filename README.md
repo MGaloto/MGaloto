@@ -10,7 +10,13 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
 
 <p>These are some languages and databases that I use for published works</p>
   
-  
+ 
+ <li>Languages</li>
+ 
+ 
+  <li>Languages</li>
+ 
+ 
 <!--
 **MGaloto/MGaloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
