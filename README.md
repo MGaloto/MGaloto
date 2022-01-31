@@ -37,11 +37,7 @@ These are some languages and databases that I use for published works
 <img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png" alt="react" width="25" height="25" />
 <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="25" height="25" />
 <img src="https://comunidadbioinfo.github.io/cdsb2021_workflows/img/shiny_1.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/1280px-Matplotlib_logo.svg.png" alt="react" width="25" height="25" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="react" width="25" height="25" />
+<img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="react" width="25" height="25" />
 </p> </li>
 
 
