@@ -28,15 +28,20 @@ These are some languages and databases that I use for published works
   <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p> </li>
 
 
-<li>Library
+<li>My favorite bookstores
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="25" height="25" />
 <img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="25" height="25" />
 <img src="https://jkunst.com/highcharter/logo.png" alt="react" width="25" height="25" />
 <img src="https://www.anabellelaurent.com/slides/datawrangling_tallerr_ecuador/images/dplyr.png" alt="react" width="25" height="25" />
 <img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png" alt="react" width="25" height="25" />
 <img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="25" height="25" />
+<img src="https://comunidadbioinfo.github.io/cdsb2021_workflows/img/shiny_1.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1920px-Scikit_learn_logo_small.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Matplotlib_logo.svg/1280px-Matplotlib_logo.svg.png" alt="react" width="25" height="25" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/2560px-Django_logo.svg.png" alt="react" width="25" height="25" />
 </p> </li>
 
 
