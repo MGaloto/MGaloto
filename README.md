@@ -14,7 +14,7 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
  </br>
  
 
-I am passionate about everything I do, especially when it comes to working with data. I can combine programming languages ​​to get the best out of each one and get the best possible results.
+I am passionate about everything I do, especially when it comes to working with data. I can combine programming languages to get the best out of each one and get the best possible results.
 
  
  <br>
@@ -31,7 +31,7 @@ These are some languages and databases that I use for published works
 
 
  <li>Data Base
-  <p dir="auto"><img src="https://e7.pngegg.com/pngimages/824/227/png-clipart-mysql-logo-database-web-development-blue-text-thumbnail.png" alt="react" width="50" height="50" /> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="50" height="50" />  </p> </li>
+  <p dir="auto"><img src="https://e7.pngegg.com/pngimages/824/227/png-clipart-mysql-logo-database-web-development-blue-text-thumbnail.png" alt="react" width="75" height="75" /> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="50" height="50" />  </p> </li>
 
 
 <li>My favorite bookstores
