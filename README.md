@@ -31,7 +31,7 @@ These are some languages and databases that I use for published works
 
 
  <li>Data Base
-  <p dir="auto"><a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=My Sql&message= &color=blue'alt="MySql Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> <a  rel="nofollow"><img src = 'https://img.shields.io/static/v1?label=MongoDB&message= &color=green'alt="Mongo Badge" data-canonical-src="https://img.shields.io/badge/-@maxigaloto-1ca0f1?style=flat&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://www.instagram.com/maxigaloto" style="max-width: 75%;"></a> </p> </li>
+  <p dir="auto"><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="react" width="50" height="50" /> <img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="50" height="50" />  </p> </li>
 
 
 <li>My favorite bookstores
