@@ -4,8 +4,9 @@
 My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some blogs.
 
 
+<a href= "https://img.shields.io:/endpoint?url=https://maxi-galo.netlify.app/&style=plastic&logo=appveyor" </a>
 
-<p dir="auto"> <a href="https://www.instagram.com/maxigaloto"><img src = 'https://img.shields.io/static/v1?label=Instagram&message= &color=pink' style="max-width: 75%;"></a> </p>
+
  
  <br>
  </br>
