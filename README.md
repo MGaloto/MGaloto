@@ -5,7 +5,7 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
 
 
 
-<p dir="auto"> <a href="https://www.instagram.com/maxigaloto"><img src = 'https://img.shields.io/static/v1?label=Instagram&message= &color=pink'alt="java Badge" style="max-width: 75%;"></a> </p>
+<p dir="auto"> <a href="https://www.instagram.com/maxigaloto"><img src = 'https://img.shields.io/static/v1?label=Instagram&message= &color=pink' style="max-width: 75%;"></a> </p>
  
  <br>
  </br>
