@@ -25,7 +25,9 @@ These are some languages and databases that I use for published works
 
 
  <li>Languages
- <p dir="auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="50" height="50" /></p></li>
+ <p dir="auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="50" height="50" /> <img src="https://play-lh.googleusercontent.com/KsOUmV4vYtmjqWIsx46IzCavSdKFi3NCqfjfDv2TsQClLa1TQgQFfLT8dMdhBEzp3Qs" alt="react" width="50" height="50" /> </p></li>
+
+
 
 
  <li>Data Base
