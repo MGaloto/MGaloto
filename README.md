@@ -4,7 +4,7 @@
 My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some blogs.
 
 <p dir="auto"> <a href="https://www.instagram.com/maxigaloto"><img src = 'https://img.shields.io/badge/-Instagram-pink'alt="Website Badge" style="max-width: 75%;"></a> <a href="https://www.instagram.com/ryeconomia"><img src = 'https://img.shields.io/badge/-Instagram%20Data-pink'alt="Website Badge" style="max-width: 75%;"></a>  <a href="https://www.facebook.com/maxi.galoto"><img src = 'https://img.shields.io/static/v1?label=Facebook&message= &color=blue'alt="Website Badge" style="max-width: 75%;"></a> <a href="https://maxi-galo.netlify.app/"><img src = 'https://img.shields.io/static/v1?label=Netlify&message= &color=#33FFFF'alt="Website Badge" style="max-width: 75%;"></a> <a href="https://rpubs.com/MGaloto"><img src = 'https://img.shields.io/static/v1?label=Rpubs&message= &color=orange'alt="Website Badge" style="max-width: 75%;"></a></a> <a href="https://mgaloto.pythonanywhere.com/"><img src = 'https://img.shields.io/static/v1?label=Pythonanywhere&message= &color=purple'alt="Website Badge" style="max-width: 75%;"></a> <a href="https://www.alphacast.io/p/MaxiGaloto"><img src = 'https://img.shields.io/static/v1?label=Alphacast&message= &color=pink'alt="Website Badge" style="max-width: 75%;"></a></p>
-![image](https://user-images.githubusercontent.com/69372752/152654138-685e6311-ee59-411d-8615-85eafb505126.png)
+
 
 
 
