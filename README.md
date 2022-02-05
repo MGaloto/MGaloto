@@ -23,7 +23,6 @@ I am passionate about everything I do, especially when it comes to working with 
 These are some languages and databases that I use for published works
   
 
-<img src="https://camo.githubusercontent.com/1d65899a5f8f61a9922e18483ad5989e8ba05735eb46af22691b842cdd4f4eae/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f32303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" alt="react" width="25" height="25" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" style="max-width: 100%;">
 
 
  <li>Languages
