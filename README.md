@@ -33,7 +33,7 @@ These are some languages and databases that I use for published works
 <p align="left">
  
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" width="50" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" width="50" style="max-width: 100%;"></a>
 </p> </li>
 
 
