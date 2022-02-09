@@ -50,6 +50,7 @@ These are some languages and databases that I use for published works
 <p align="left">
  
 <a href="https://pkgs.rstudio.com/flexdashboard/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/flexdashboard.png" width="50" style="max-width: 100%;"></a>
+<a href="https://selenium-python.readthedocs.io/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="50" style="max-width: 100%;"></a>
 
  </p> </li>
 
