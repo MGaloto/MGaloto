@@ -23,14 +23,15 @@ These are some languages and databases that I use for published works
   
 
 
- <li>Languages
- <p dir="auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="50" height="50" /> <img src="https://play-lh.googleusercontent.com/KsOUmV4vYtmjqWIsx46IzCavSdKFi3NCqfjfDv2TsQClLa1TQgQFfLT8dMdhBEzp3Qs" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" width="50" height="50" />  </p></li>
+<li>Languages
+<p dir="auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/200px-Python-logo-notext.svg.png" alt="react" width="50" height="50" /> <img src="https://play-lh.googleusercontent.com/KsOUmV4vYtmjqWIsx46IzCavSdKFi3NCqfjfDv2TsQClLa1TQgQFfLT8dMdhBEzp3Qs" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="react" width="50" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="react" width="50" height="50" />  </p></li>
 
 
 
 
 <li>Data Base
 <p align="left">
+ 
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" width="50" style="max-width: 100%;"></a>
 <a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="50" style="max-width: 100%;"></a>
 </p> </li>
