@@ -32,8 +32,8 @@ These are some languages and databases that I use for published works
 <li>Data Base
 <p align="left">
  
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" width="50" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://p7.hiclipart.com/preview/1009/655/758/mongodb-logo-database-nosql-sql-logo-thumbnail.jpg" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" width="50" style="max-width: 100%;"></a>
 </p> </li>
 
 
