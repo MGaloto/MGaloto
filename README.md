@@ -29,21 +29,13 @@ These are some languages and databases that I use for published works
 
 
 
- <li>Data Base
-  <p dir="auto"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="react" width="50" height="50" /> <img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="react" width="50" height="50" />  </p> </li>
-
-
-<li>My favorite bookstores
+<li>Data Base
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="react" width="25" height="25" />
-<img src="https://tidyverse.tidyverse.org/logo.png" alt="react" width="25" height="25" />
-<img src="https://jkunst.com/highcharter/logo.png" alt="react" width="25" height="25" />
-<img src="https://www.anabellelaurent.com/slides/datawrangling_tallerr_ecuador/images/dplyr.png" alt="react" width="25" height="25" />
-<img src="https://dtyoc.files.wordpress.com/2015/11/plotly-logo.png" alt="react" width="25" height="25" />
-<img src="https://pkgs.rstudio.com/flexdashboard/reference/figures/logo.png" alt="react" width="25" height="25" />
-<img src="https://comunidadbioinfo.github.io/cdsb2021_workflows/img/shiny_1.png" alt="react" width="25" height="25" />
-<img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="react" width="25" height="25" />
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="50" style="max-width: 100%;"></a>
 </p> </li>
+
+
 
 <li>My favorite bookstores
  
