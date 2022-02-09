@@ -33,7 +33,7 @@ These are some languages and databases that I use for published works
 <p align="left">
  
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" width="50" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://assets-global.website-files.com/6009f6f109d51e60b911ba53/60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://p7.hiclipart.com/preview/1009/655/758/mongodb-logo-database-nosql-sql-logo-thumbnail.jpg" width="50" style="max-width: 100%;"></a>
 </p> </li>
 
 
