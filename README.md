@@ -8,7 +8,7 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
 
 <a href="https://ggplot2.tidyverse.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" align="right" width="150" style="max-width: 100%;"></a>
 
-
+<a href="https://ggplot2.tidyverse.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png" align="right" width="150" style="max-width: 100%;"></a>
  
  <br>
  </br>
