@@ -46,7 +46,7 @@ These are some languages and databases that I use for published works
 </p> </li>
 
 
-
+<a href="https://pkgs.rstudio.com/flexdashboard/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/flexdashboard.png" align="right" width="25" style="max-width: 100%;"></a>
 
 
 <!--
