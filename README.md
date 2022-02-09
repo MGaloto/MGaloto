@@ -45,9 +45,13 @@ These are some languages and databases that I use for published works
 <img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" alt="react" width="25" height="25" />
 </p> </li>
 
+<li>My favorite bookstores
+ 
+<p align="left">
+ 
+<a href="https://pkgs.rstudio.com/flexdashboard/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/flexdashboard.png" width="50" style="max-width: 100%;"></a>
 
-<a href="https://pkgs.rstudio.com/flexdashboard/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/flexdashboard.png" align="right" width="50" style="max-width: 100%;"></a>
-
+ </p> </li>
 
 <!--
 **MGaloto/MGaloto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
