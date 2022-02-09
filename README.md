@@ -50,7 +50,7 @@ These are some languages and databases that I use for published works
 <a href="https://dplyr.tidyverse.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/dplyr.png" width="50" style="max-width: 100%;">
 <a href="https://plotly.com/r/" rel="nofollow"><img src="https://img2.freepng.es/20180420/pke/kisspng-plotly-data-visualization-chart-javascript-hottest-5ada70131b6602.3118492415242649791122.jpg" width="50" style="max-width: 100%;">
 <a href="https://shiny.rstudio.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/shiny.png" width="50" style="max-width: 100%;">
-<a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="50" style="max-width: 100%;">
+<a href="https://scikit-learn.org/stable/" rel="nofollow"><img src="https://img2.freepng.es/20180805/kff/kisspng-scikit-learn-python-computer-icons-scikit-image-ma-data-science-ermlab-software-5b67c768dfc2b8.4692877115335279129165.jpg" width="50" style="max-width: 100%;">
 </p> </li>
  
  
