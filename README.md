@@ -25,6 +25,18 @@ These are some languages and databases that I use for published works
 <p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="120" height="100"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="120" height="100" />  </p></li>
 
 
+<style>
+.roundedB {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-image: url('https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif');
+  background-position: 70% 50%;
+  background-size: 130%;
+}
+</style>
+ 
+<div class="roundedB"></div>
 
 
 <li>Data Base
