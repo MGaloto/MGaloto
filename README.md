@@ -29,8 +29,8 @@ These are some languages and databases that I use for published works
 <li>Data Base
 <p align="left">
  
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" width="50" style="max-width: 100%;"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://img2.freepng.es/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" width="50" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="140" height="100"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://img2.freepng.es/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" alt="react" width="140" height="100"></a>
 </p> </li>
 
 
