@@ -30,7 +30,7 @@ These are some languages and databases that I use for published works
 <p align="left">
  
 <a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="140" height="100"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://flyclipart.com/thumb2/mongodb-atlas-hits-amazon-web-services-marketplace-499956.png" alt="react" width="140" height="100"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="react" width="140" height="100"></a>
 </p> </li>
 
 
