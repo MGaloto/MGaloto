@@ -22,7 +22,7 @@ These are some languages and databases that I use for published works
 
 
 <li>Languages
-<p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="120" height="100" style="border-radius: 50%"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="120" height="100" />  </p></li>
+<p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="120" height="100"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="120" height="100" />  </p></li>
 
 
 
