@@ -24,11 +24,7 @@ These are some languages and databases that I use for published works
 <li>Languages
 <p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="120" height="100" /> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="120" height="100" />  </p></li>
 
-img {
-  width: 300px;
-  height: 200px;
-  border-radius: 50%;
-}
+
 
 
 <li>Data Base
