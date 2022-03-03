@@ -24,8 +24,6 @@ These are some languages and databases that I use for published works
 <li>Languages
 <p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="150" height="100"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="150" height="100" />  </p></li>
 
-<br>
- </br>
 
 
 <li>Data Base
@@ -35,8 +33,7 @@ These are some languages and databases that I use for published works
 <a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="react" width="150" height="100"></a>
 </p> </li>
 
-<br>
- </br>
+
 
 <li>My favorite Packages 
  
