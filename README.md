@@ -22,15 +22,15 @@ These are some languages and databases that I use for published works
 
 
 <li>Languages
-<p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="145" height="80"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="145" height="80" />  </p></li>
+<p dir="auto"><img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="react" width="135" height="70"/> <img src="https://media.giphy.com/media/rGlAZysKBcjRCkAX7S/giphy.gif" alt="react" width="135" height="70" />  </p></li>
 
 
 
 <li>Data Base
 <p align="left">
  
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="125" height="80"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="155" height="80"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="115" height="70"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="145" height="70"></a>
 </p> </li>
 
 
