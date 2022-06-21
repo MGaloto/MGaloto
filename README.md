@@ -29,8 +29,8 @@ These are some languages and databases that I use for published works
 <li>Data Base
 <p align="left">
  
-<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="120" height="60"></a>
-<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="120" height="60"></a>
+<a href="https://www.mysql.com/" rel="nofollow"><img src="https://blog.artegrafico.net/wp-content/uploads/2019/10/mysql-logo.png" alt="react" width="110" height="60"></a>
+<a href="https://www.mongodb.com/es" rel="nofollow"><img src="https://1000marcas.net/wp-content/uploads/2021/06/MongoDB-Logo.png" alt="react" width="110" height="60"></a>
 </p> </li>
 
 
@@ -38,9 +38,9 @@ These are some languages and databases that I use for published works
 <li>IDE and Notebooks
 <p align="left">
  
-<a href="https://www.spyder-ide.org/" rel="nofollow"><img src="https://n5b3y8j5.rocketcdn.me/wp-content/uploads/2020/10/Spyder-IDE-logo-300x219.png" alt="react" width="70" height="50"></a>
-<a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="react" width="70" height="50"></a>
-<a href="https://jupyter.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="react" width="70" height="50"></a>
+<a href="https://www.spyder-ide.org/" rel="nofollow"><img src="https://n5b3y8j5.rocketcdn.me/wp-content/uploads/2020/10/Spyder-IDE-logo-300x219.png" alt="react" width="65" height="50"></a>
+<a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="react" width="65" height="50"></a>
+<a href="https://jupyter.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="react" width="65" height="50"></a>
 </p> </li>
 
 
