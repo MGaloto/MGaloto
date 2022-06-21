@@ -38,7 +38,7 @@ These are some languages and databases that I use for published works
 <li>IDE and Notebooks
 <p align="left">
  
-<a href="https://www.spyder-ide.org/" rel="nofollow"><img src="https://n5b3y8j5.rocketcdn.me/wp-content/uploads/2020/10/Spyder-IDE-logo-300x219.png" alt="react" width="65" height="50"></a>
+<a href="https://www.spyder-ide.org/" rel="nofollow"><img src="https://seeklogo.com/images/S/spyder-logo-68D7CF8B2C-seeklogo.com.png" alt="react" width="65" height="50"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="react" width="65" height="50"></a>
 <a href="https://jupyter.org/" rel="nofollow"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="react" width="65" height="50"></a>
 </p> </li>
