@@ -4,7 +4,6 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
 
 <p dir="auto"> 
 <a href="https://www.instagram.com/maxigaloto"><img src = 'https://img.shields.io/badge/-Instagram-d934d6'alt="Website Badge" style="max-width: 75%;"></a>  
-
 <a href="https://maxi-galo.netlify.app/"><img src = 'https://img.shields.io/badge/%20%20-Netlify-a666d4'alt="Website Badge" style="max-width: 75%;"></a> 
 <a href="https://rpubs.com/MGaloto"><img src = 'https://img.shields.io/badge/%20%20-Rpubs-5a98e8'alt="Website Badge" style="max-width: 75%;"></a></a> 
 <a href="https://www.linkedin.com/in/maximilianogaloto"><img src = 'https://img.shields.io/badge/-Linkedin-4c32e3'alt="Website Badge" style="max-width: 75%;"></a>
