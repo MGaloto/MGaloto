@@ -11,9 +11,7 @@ My name is <b>Maxi Galoto</b>. I share my accounts on social networks and some b
 
  
 
-I am passionate about everything I do, especially when it comes to working with data. I can combine programming languages to get the best out of each one and get the best possible results.
-
- 
+I am passionate about everything I do, especially when it comes to working with data.
 
 
 
